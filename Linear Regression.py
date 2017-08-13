@@ -62,4 +62,6 @@ def logistic_regression(train_name, alpha, max_iters, test_name):
 if __name__ == "__main__":
     train_name = 'train_data.txt'
     test_name = 'test_data.txt'
+    alpha = 0.01
+    max_iters = 500
     logistic_regression(train_name, test_name)
