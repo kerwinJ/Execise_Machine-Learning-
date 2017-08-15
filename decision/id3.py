@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-# 代码参考 http://blog.csdn.net/wzmsltw/article/details/51039928
+#ID3算法是决策树的经典算法之一 
+#代码参考 http://blog.csdn.net/wzmsltw/article/details/51039928
 import numpy as np
 import pandas as pd
 from math import log
